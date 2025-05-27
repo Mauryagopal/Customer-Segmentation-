@@ -78,7 +78,9 @@ Customer Segmentation is the process of dividing a customer base into distinct g
 5. **Cluster Orange – Balanced Customers:**
    - Low Income & Low Spending
    - Least attractive segment for promotions
-https://github.com/Mauryagopal/Customer-Segmentation-/blob/e752086e8cfbc9cb14790c3528464a35dc7857a0/output.png
+  
+     ![Cluster Plot](images/cluster_plot.png)
+
 ---
 
 ## 🛠 Technologies Used

@@ -79,7 +79,7 @@ Customer Segmentation is the process of dividing a customer base into distinct g
    - Low Income & Low Spending
    - Least attractive segment for promotions
   
-     ![Cluster Plot](images/cluster_plot.png)
+     ![Cluster Plot](output.png)
 
 ---
 
